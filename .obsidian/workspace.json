@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "626cf7e8cc0b2330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digiteyes/Digiteyes Home.md",
+                "file": "Personal/Entertainment/PC Build.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digiteyes/Digiteyes Home.md",
+                "file": "Personal/Entertainment/PC Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digiteyes/Digiteyes Home.md",
+                "file": "Personal/Entertainment/PC Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digiteyes/Digiteyes Home.md"
+                "file": "Personal/Entertainment/PC Build.md"
               }
             }
           }
@@ -159,17 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "626cf7e8cc0b2330",
+  "active": "486e0d7408c9a4ad",
   "lastOpenFiles": [
-    "Prismical/ACID Principles.md",
-    "Prismical/Databases.md",
-    "Prismical/Prismical Home.md",
-    "Digiteyes/Digiteyes Home.md",
+    "Digiteyes/Digiteyes.md",
+    "Laravel/Laravel.md",
     "Laravel/Laravel Cloud.md",
+    "Prismical/Database/Databases.md",
+    "Prismical/Prismical.md",
+    "Personal/Entertainment/Entertainment.md",
+    "Personal/Personal.md",
+    "Personal/Entertainment/PC Build.md",
+    "Prismical/Database/ACID Principles.md",
+    "Home.md",
+    "Prismical/Database",
+    "README.md",
+    "Untitled.md",
+    "Personal/Entertainment",
+    "Personal",
     "personal_gh_ssh.pub",
     "personal_gh_ssh",
-    "README.md",
-    "Home.md",
     "Untitled.canvas",
     "Laravel",
     "2024-09-05.md",

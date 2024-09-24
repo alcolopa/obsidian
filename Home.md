@@ -1,3 +1,4 @@
-[[Prismical Home]]
-[[Digiteyes Home]]
-[[Laravel Cloud]]
+[[Personal]]
+[[Prismical]]
+[[Digiteyes]]
+[[Laravel]]

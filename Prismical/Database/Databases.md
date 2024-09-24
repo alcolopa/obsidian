@@ -1,3 +1,4 @@
+[[Prismical]]
 # Best Practices
 
 ### Principles To Abide By

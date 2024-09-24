@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16711888
       }
+    },
+    {
+      "query": "path:Personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 11.5625,
   "linkStrength": 1,
   "linkDistance": 121,
-  "scale": 1.455123468028522,
-  "close": false
+  "scale": 0.996662236632078,
+  "close": true
 }
